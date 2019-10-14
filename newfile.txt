@@ -8,3 +8,6 @@ second line
 
 branching learning
    master commit (conflict solving)
+   feature commit - conflict ?
+
+play with tags
