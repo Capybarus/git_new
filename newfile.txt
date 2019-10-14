@@ -7,5 +7,3 @@ second line
 
 
 branching learning
-
-branch second
